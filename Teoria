@@ -1,0 +1,25 @@
+Explica los siguentes conceptos con tus propias palabras.
+
+
+1- Scope
+El scope para mi es el alcance que tiene 
+una varible como local o global
+
+2- Tipos de datos
+Los tipos de datos podemos encontrar como
+entero , flotantes , booleano , etc
+3- Operadores
+Los operadores tenemos a suma , resta , division , multiplicacion , porcentaje , resto , etc
+4- Coercion
+la coercion es cuando pasamos de un tipo de dato a otro 
+5- Precedencia
+
+6- Bind
+Crea una funcion que tiene su palabra clave this establecida 
+7- Apply
+Tambien como que crea una funcion con el valor this dado y argumentos como una matriz 
+8- Promesas
+Las promesas es como resolver problemas en forma asincronas de una forma mas eficiente
+9- Recursividad
+La recursividad es como un bucle pero menos eficiente y trata que la funcion se llama asi misma con un 
+caso general y base 
